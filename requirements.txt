@@ -1,0 +1,4 @@
+﻿hypothesis>=6.170.0
+pytest>=9.0.0
+reportlab>=4.4.0
+pillow>=11.0.0
